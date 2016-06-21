@@ -1,0 +1,15 @@
+
+body{
+  background-color: #e3e3e3;
+  font-family: sans-serif;
+}
+div
+{
+  width:500px;
+  margin: auto;
+
+}
+blockquote{
+  border-style: solid;
+  border-color: white;
+}
